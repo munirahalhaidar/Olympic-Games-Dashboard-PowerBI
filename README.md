@@ -1,4 +1,4 @@
-# Olympic-Games-Dashboard-Power.
+# Olympic-Games-Dashboard-Power
 An interactive Power BI dashboard analyzing Olympic medals from 1896 to 2016, covering both Summer and Winter Games.
 ## Key Metrics
 - Total medals: 39,783 (Gold 13,372, Silver 13,116, Bronze 13,295)
